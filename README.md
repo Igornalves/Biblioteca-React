@@ -2,8 +2,8 @@
 
 São projeto feito por um **iniciante/intermediario** em programação com total intuito de aprender a tecnologia React:
 
-<div style="display: inline_block">
-<img align="center" alt="java" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<div align="center" style="display: inline_block">
+<img alt="java" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
 ## Um pouco sobre o repositório
